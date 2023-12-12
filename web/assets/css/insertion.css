@@ -1,0 +1,36 @@
+.formulaire{
+    margin-left: 5%;
+    margin-top: 6%;
+}
+
+.type{
+    margin-right: 50%;
+}
+
+.check{
+    margin-left: 5%;
+}
+
+.formulaire button{
+    margin-left: 35%;
+    margin-right: 50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width:30%;
+}
+
+.specialite{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.container{
+    margin-left:500px;
+}
+#inserer{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 350px;
+    height: 35px;
+    border-radius: 5px;
+    margin-left: 150px;
+}
